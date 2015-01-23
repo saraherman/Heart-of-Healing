@@ -1,0 +1,155 @@
+/*
+		Theme Name: Heart of Healing
+		Theme URI: Your Theme's URI
+		Description: Heart of Healing.
+		Version: 1.0
+		Author: Sara Herman
+		Author URI: Your website address.
+		*/
+* {box-sizing:border-box;}
+
+body {
+	font-family: 'Lato', sans-serif; background-image: url('images/lotus-flowers-wallpaper-hd-23.jpg'); background-size: cover; background-repeat: no-repeat; color:#444;
+}
+
+h1,h2,h3,h4,h5,h6 {font-family: 'Open Sans', sans-serif; font-weight: normal;}
+
+a {color:#128099;}
+
+h1 {font-size: 32px;}
+h2 {font-size: 30px; color:#024D5B; border-top:1px solid #0E7E94; border-bottom:1px solid #0E7E94; padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px;}
+h3 {font-size: 28px;}
+h4 {font-size: 26px;}
+h5 {font-size: 24px;}
+h6 {font-size: 22px;}
+
+p, li, label, input, textarea, select {font-size: 14px; line-height: 24px;}
+
+button, input[type=submit], .btn {background-color:#F73117;}
+
+@-webkit-keyframes backgroundanimation {
+	0%{background-position:0% 50%}
+	50%{background-position:100% 50%}
+	100%{background-position:0% 50%}
+}
+@-moz-keyframes backgroundanimation {
+	0%{background-position:0% 50%}
+	50%{background-position:100% 50%}
+	100%{background-position:0% 50%}
+}
+@keyframes backgroundanimation { 
+	0%{background-position:0% 50%}
+	50%{background-position:100% 50%}
+	100%{background-position:0% 50%}
+}
+
+.container {max-width: 1160px; margin-left: auto; margin-right: auto;}
+
+header {position: fixed; top:0px; left:0px; width: 100%; background-color:#fff; padding:10px 15px;}
+header .logo {max-height: 86px; vertical-align: middle; padding-right: 25px;}
+header h1 {margin: 0px; display: inline-block;}
+header h1 span {color:#024D5B; border-top:1px solid #0E7E94; border-bottom:1px solid #0E7E94; padding-top: 10px; padding-bottom: 10px; padding-left: 5px; padding-right: 5px;}
+
+header nav {float: right;}
+header nav ul {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	border-top:3px solid #127F98;
+	padding: 0px 40px;
+	box-shadow:0px 7px 19px -12px rgba(50, 50, 50, 0.75) inset;
+}
+header nav ul li {
+	display: inline-block;
+	vertical-align: top;
+ 	padding: 10px 15px;
+ 	border:2px solid #127F98;
+ 	border-bottom-right-radius: 15px;
+ 	border-bottom-left-radius: 15px;
+ 	background-color: #127F98;
+ 	min-width: 110px;
+ 	text-align: center;
+ 	margin: -2px 5px 0px 0px;
+ 	box-shadow:0px 7px 33px -12px rgba(50, 50, 50, 0.75);
+ }
+header nav ul li a {
+	color:#fff;
+	text-decoration: none;
+}
+header nav ul li:hover {
+	background-color:#fff;
+	
+}
+header nav ul li:hover a {
+	color: #127F98;
+	text-decoration: none;}
+
+.heading, .headline{display: inline-block;}
+.headline{
+	border-top:3px solid #0E7E94;
+	border-bottom:3px solid #0E7E94;
+	padding: 10px 0px 10px 0px;
+	vertical-align: middle;
+	text-align: center;
+	margin-bottom: -18px;
+}
+.headline p{
+	margin: -10px 20px 0px 0px;
+	padding: 0px;
+	font-style: italic;
+	color: #000;
+	text-align: right;
+}
+.heading p {
+    background-color: #127F98;
+    display: inline-block;
+    color: #fff;
+    font-size: 11px;
+    padding: 5px 8px;
+    margin: 0px;
+    margin-top: -57px;
+    margin-left: 210px;
+    /* margin-bottom: 30px; */
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding-top: 1px;
+}
+
+
+hr {
+	background-image:url('images/hr.png');
+	border:none;
+	padding:0px;
+	margin:0px;
+	height:37px;
+	background-repeat: no-repeat;
+	background-position: center center;}
+
+header h1 span:nth-of-type(2n){
+	font-size: 12px;
+	border: none;
+	padding: 0px;}
+.quote{
+	color: #024F61;
+	padding: 20px;
+	font-style: italic;
+	font-weight: bold;}
+
+footer{color: #fff;text-shadow: 1px 1px 1px #000;}
+
+/* Systemic */
+
+main {margin-top: 128px;}
+
+.white-wrap {background-color: #fff; background-image:url('images/lightpaperfibers.png');}
+
+.shadow {-webkit-box-shadow: 0px 0px 15px 0px rgba(50, 50, 50, 0.25); -moz-box-shadow:0px 0px 15px 0px rgba(50, 50, 50, 0.25); box-shadow:0px 0px 15px 0px rgba(50, 50, 50, 0.25);}
+
+.col-wrap {font-size: 0;}
+.column {display: inline-block; vertical-align: top; padding:20px;}
+
+.full {width: 100%;}
+.three-fourths {width: 75%;}
+.two-thirds {width: 66.666%;}
+.half {width: 50%;}
+.third {width: 33.333%;}
+.fourth {width: 25%;}
