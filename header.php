@@ -14,35 +14,30 @@
 	<header>
 		<div class="responsive header">
 			<div class="container">
-				<img src="<?php echo get_template_directory_uri(); ?>/images/logo-white.png">
-				<p><?php $blog_title = get_bloginfo('name'); echo $blog_title;?><p>
 				<nav>
 					<ul>
 						<?php wp_nav_menu( array( 'theme_location' => 'header-menu', 'container_class' => 'full navbar' ) ); ?>
 					</ul>
 				</nav>
-				<div class="column half right">
-					<p><i class="fa fa-phone"></i>Get in touch.</p>
-				</div>
+				<img src="<?php echo get_template_directory_uri(); ?>/images/logo-white.png">
+				<p><?php $blog_title = get_bloginfo('name'); echo $blog_title;?><p>
+				<nav>
+					<?php wp_nav_menu( array( 'theme_location' => 'header2-menu', 'container_class' => 'navbar' ) ); ?>
+				</nav>
+				<p class="fl-right">Get in touch.</p>
 			</div>	
 		</div>
 		<div class="first header">
 			<div class="container">
-				<!-- <div class="logo">
-					<img src="<?php echo get_template_directory_uri(); ?>/images/logo.png">
-					<div class="logo-text">
-						<h1><?php $blog_title = get_bloginfo('name'); echo $blog_title;?></h1>
-						<p><?php echo get_bloginfo ( 'description' );  ?></p>
-					</div>
-				</div> -->
 				<div class="col-wrap">
 					<nav class="column half left">
-						<ul>
 							<?php wp_nav_menu( array( 'theme_location' => 'header-menu', 'container_class' => 'full navbar' ) ); ?>
-						</ul>
 					</nav>
 					<div class="column half right">
 						<p><i class="fa fa-phone"></i>Get in touch.</p>
+						<nav>
+							<?php wp_nav_menu( array( 'theme_location' => 'header2-menu', 'container_class' => 'navbar' ) ); ?>
+						</nav>
 					</div>
 				</div>	
 			</div>

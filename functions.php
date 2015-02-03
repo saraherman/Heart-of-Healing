@@ -7,6 +7,7 @@
 	  register_nav_menus(
 	    array(
 	      'header-menu' => __( 'Header Menu' ),
+	      'header2-menu' => __( 'Second Menu' ),
 	      'extra-menu' => __( 'Footer Menu' )
 	    )
 	  );
@@ -16,27 +17,27 @@
 	// adds theme support for autocracy
 	// include 'autocracy/autocracy.php';
 
-	// creates custom post-type: services
-	// function services_create_post_type() {
-	// register_post_type('services', array(
-	// 	'labels' => array(
-	// 		'name' => __('Services'),
-	// 		'singular_name' => __('Service'),
-	// 		'new_item' => __('New Service'),
-	// 		'add_new_item' => __('Add New Service'),
-	// 		'all_item' => __('All Services'),
-	// 		'not_found' => __('No Services Found'),
-	// 		'search_items' => __('Search Services')
-	// 		),
-	// 	'public' => true,
-	// 	'has_archive' => true,
-	// 	'rewrite' => array('slug' => 'services'),
-	// 	'supports' => array('title','editor','thumbnail', 'author', 'comments'),
-	// 	'taxonomies' => array('category'), 
-	// 	)
-	// 	);
-	// }
-	// add_action('init', 'services_create_post_type');
+	// creates custom post-type: Articles
+	function articles_create_post_type() {
+	register_post_type('articles', array(
+		'labels' => array(
+			'name' => __('Articles'),
+			'singular_name' => __('Article'),
+			'new_item' => __('New Article'),
+			'add_new_item' => __('Add New Article'),
+			'all_item' => __('All Articles'),
+			'not_found' => __('No Articles Found'),
+			'search_items' => __('Search Articles')
+			),
+		'public' => true,
+		'has_archive' => true,
+		'rewrite' => array('slug' => 'articles'),
+		'supports' => array('title','editor','thumbnail', 'author', 'comments'),
+		'taxonomies' => array('category'), 
+		)
+		);
+	}
+	add_action('init', 'articles_create_post_type');
 
 	// creates custom post-type: testimonials
 	function testimonials_create_post_type() {

@@ -12,6 +12,7 @@ body {
 	sans-serif; 
 	background-image: url('images/bridge.jpg');
 	background-size: cover;
+	background-attachment: fixed;
 	background-repeat: no-repeat;
 }
 .container {
@@ -43,21 +44,19 @@ img.fl-left{
 img.fl-right{
 	margin-left: 10px;
 }
-
-
 /* Header */
 header {
 	position: fixed; 
 	width: 100%; 
 	top:0px; 
 	left:0px; 
-	padding-top:20px; 
 	background-color: #127F98; 
 	background-image:url('images/lightpaperfibers.png'); 
 	z-index: 1}
 .header{
 	box-shadow:0px -10px 15px -3px rgba(50, 50, 50, 0.3) inset;
 	color: #fff;
+	padding-top: 20px;
 }
 .header p{
 	margin: 0px;
@@ -68,6 +67,7 @@ header .logo {
 	position: absolute;
 	top: 33px;
 	left: 50%;
+	z-index: 0;
 	max-width: 140px;
 	vertical-align: middle;
 	background-color: #fff;
@@ -110,9 +110,14 @@ header .logo p {
 	background-image: url(images/lightpaperfibers.png);
 	text-shadow: 0px 1px 1px #454545;
 }
-
+.header p{
+	display: inline-block;
+}
 
 header nav {
+	display: inline-block;
+}
+header nav p{
 	display: inline-block;
 }
 
@@ -133,7 +138,7 @@ header nav ul li {
 header .responsive.header{
 	display: none;
 	height: 50px;
-	background-color: #024F61;
+	background-color: #138099;
 	padding-top: 10px;
 }
 header .responsive.header p,header .responsive.header ul{
@@ -145,6 +150,7 @@ header .responsive.header p,header .responsive.header ul{
 	vertical-align: middle;
 	padding-bottom: 0px;
 }
+
 .responsive.header nav{
 
 }
@@ -312,6 +318,7 @@ main h1{
 	margin-left: 4px;
 	border-radius: 100%;
 	border:4px solid #fff;
+	padding-bottom: 0px !important;
 	box-shadow:0px 0px 55px 0px #FFF;
 }
 .thumbnail{
