@@ -12,7 +12,9 @@
 						}; ?></p>
 					
 				</div>
-				<div class="column half"></div>
+				<div class="column half">
+					<?php wp_nav_menu( array( 'theme_location' => 'footer-menu', 'container_class' => 'white-nav' ) ); ?>
+				</div>
 			</div>
 		</div>
 	</footer>

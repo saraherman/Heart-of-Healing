@@ -1,0 +1,1214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"headi",
+				"headline"
+			],
+			[
+				"category",
+				"category_id"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"n",
+				"transparent"
+			],
+			[
+				"first",
+				"first-of-type"
+			],
+			[
+				"menu",
+				"menu-item"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"ine",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"si",
+				"sidebar"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"blo",
+				"blog"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pa",
+				"pagination"
+			],
+			[
+				"border-le",
+				"border-top-left-radius"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"god",
+				"gods"
+			],
+			[
+				"p",
+				"pinterest"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"man",
+				"margin-right"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"bott",
+				"bottom"
+			],
+			[
+				"login",
+				"login-border"
+			],
+			[
+				"large",
+				"largepic"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"small",
+				"smallpic"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"botto",
+				"border-bottom"
+			],
+			[
+				"record",
+				"recordID"
+			],
+			[
+				"eho",
+				"echo	echo \"…\""
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"h1",
+				"h1	Tag"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"logo",
+				"logo-block"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"border-top-",
+				"border-top-right-radius"
+			],
+			[
+				"marin",
+				"margin-right"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"js",
+				"js-masonry"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"post",
+				"post-block"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"img",
+				"img-gallery"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"fff",
+				"fff6c5"
+			],
+			[
+				"tra",
+				"transfer"
+			],
+			[
+				"un",
+				"untransfered"
+			],
+			[
+				"g",
+				"goodbye"
+			],
+			[
+				"ca",
+				"card-text"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"box",
+				"box-in-large-box"
+			],
+			[
+				"div",
+				"div-id"
+			],
+			[
+				"tab",
+				"tab-text"
+			],
+			[
+				"Tab",
+				"TabBuffer"
+			],
+			[
+				"body",
+				"bodyButton"
+			],
+			[
+				"fi",
+				"first-of-type"
+			],
+			[
+				"upp",
+				"toUpperCase"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"fa",
+				"favPlusHated"
+			],
+			[
+				"hate",
+				"hatedNumber"
+			],
+			[
+				"ha",
+				"hatedNumber"
+			],
+			[
+				"fav",
+				"favNumber"
+			],
+			[
+				"fir",
+				"firstLastName"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"set",
+				"setofnumbers"
+			],
+			[
+				"create",
+				"createBicycle"
+			],
+			[
+				"st",
+				"font-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"b",
+				"border-bottom"
+			],
+			[
+				"B",
+				"border-top"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 2127,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 6667,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<body jhjlijpomuhn=\"1\" jhjlijpomuhn_10=\"1\">\n	<div class=\"header\">\n		<div>\n			<h1>Your Website Here</h1>\n			<div><ul>\n				<a href=\"\"><li>Home</li></a>\n				<a href=\"\"><li>About Us</li></a>\n				<a href=\"\"><li>Contact Us</li></a>\n				<a href=\"\"><li>Kittens</li></a></ul></div>\n			\n		</div>\n	</div>\n\n	<div class=\"body\">\n		<ul class=\"tab\">\n			<li class=\"active\">\n				<a href=\"#one\">Tab 1</a>\n			</li>\n			<li>\n				<a href=\"#two\">Tab 2</a>\n			</li>\n			<li>\n				<a href=\"#three\">Tab 3</a>\n			</li>\n		</ul>\n\n		<div class=\"container\" id=\"one\" style=\"display: block;\">\n			<h2>\n				This Will Be The Header For Tab 1\n			</h2>\n\n			<p>\n				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra, odio eu commodo porttitor, enim orci laoreet augue, id mollis sem purus a neque. Donec volutpat imperdiet odio non laoreet. In hac habitasse platea dictumst. Praesent vel dolor non odio convallis placerat ultricies id nunc. In faucibus pharetra congue. Sed at aliquet nibh. Vestibulum id massa ut risus congue dictum sed dapibus justo. Suspendisse et enim sed urna mattis vehicula. Curabitur nec metus vitae lacus ultricies mollis.\n			</p>\n			<p>\n				Mauris ornare mi commodo justo semper ac lacinia est dictum. Vestibulum eros justo, vulputate tempor suscipit ac, aliquet vel lorem. Aliquam gravida consectetur augue vitae ultricies. Vestibulum eu augue eu quam pharetra pulvinar vel ut purus. Pellentesque at turpis orci, eget luctus diam. Donec et hendrerit arcu. Nam pharetra mi nec velit tincidunt egestas.\n			</p>\n			<p>\n				Donec vel lorem ligula. Proin purus dui, euismod id volutpat ut, convallis eu sem. Curabitur ut mi adipiscing enim sodales dapibus. Nunc eget massa eu erat molestie luctus et sit amet urna. Proin vehicula, nibh sed placerat bibendum, dolor odio ultrices leo, in cursus purus libero quis est. Praesent id magna urna, eget molestie mi. Morbi placerat egestas sapien at aliquet. Aliquam ipsum nisi, cursus quis hendrerit ullamcorper, egestas nec ante. Suspendisse pulvinar ultrices nisi sed egestas. Etiam adipiscing, neque vel egestas interdum, mauris urna elementum nibh, sed vestibulum metus nisi sit amet dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam diam lectus, scelerisque ac ultricies dictum, hendrerit non odio. In eleifend gravida convallis. Ut sit amet est lectus. Proin sit amet lorem eros. Suspendisse ac nisl lectus, eu mollis justo.\n			</p>\n			<p>\n				Duis adipiscing, neque id euismod porta, quam diam sodales dolor, non tincidunt diam odio eget magna. Morbi quis dolor vel augue rhoncus euismod. Aenean fermentum vestibulum est tincidunt varius. Nam congue tincidunt pellentesque. Pellentesque quis ante ante. Maecenas dui diam, pharetra vel hendrerit vel, lobortis quis orci. Sed placerat sapien eget erat interdum feugiat ut nec urna. Pellentesque vitae urna feugiat mi porttitor egestas id at elit. Curabitur interdum molestie leo, eget porta diam venenatis vel.\n			</p>\n			<p>\n				Aenean ac nibh in sem viverra ornare sit amet sit amet justo. Morbi vitae risus a eros posuere fermentum a et purus. Vestibulum est eros, viverra in eleifend in, euismod vel elit. Proin facilisis dignissim fringilla. In sed sapien et felis consequat molestie. Curabitur tellus libero, eleifend vel cursus ac, dignissim eu sapien. Cras pulvinar cursus sapien in convallis.\n\n			</p>\n		</div>\n		<div class=\"container\" id=\"two\">\n			<h2>\n				This Will Be The Header For Tab 2\n			</h2>\n\n			<p>\n				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra, odio eu commodo porttitor, enim orci laoreet augue, id mollis sem purus a neque. Donec volutpat imperdiet odio non laoreet. In hac habitasse platea dictumst. Praesent vel dolor non odio convallis placerat ultricies id nunc. In faucibus pharetra congue. Sed at aliquet nibh. Vestibulum id massa ut risus congue dictum sed dapibus justo. Suspendisse et enim sed urna mattis vehicula. Curabitur nec metus vitae lacus ultricies mollis.\n			</p>\n			<p>\n				Mauris ornare mi commodo justo semper ac lacinia est dictum. Vestibulum eros justo, vulputate tempor suscipit ac, aliquet vel lorem. Aliquam gravida consectetur augue vitae ultricies. Vestibulum eu augue eu quam pharetra pulvinar vel ut purus. Pellentesque at turpis orci, eget luctus diam. Donec et hendrerit arcu. Nam pharetra mi nec velit tincidunt egestas.\n			</p>\n			<p>\n				Donec vel lorem ligula. Proin purus dui, euismod id volutpat ut, convallis eu sem. Curabitur ut mi adipiscing enim sodales dapibus. Nunc eget massa eu erat molestie luctus et sit amet urna. Proin vehicula, nibh sed placerat bibendum, dolor odio ultrices leo, in cursus purus libero quis est. Praesent id magna urna, eget molestie mi. Morbi placerat egestas sapien at aliquet. Aliquam ipsum nisi, cursus quis hendrerit ullamcorper, egestas nec ante. Suspendisse pulvinar ultrices nisi sed egestas. Etiam adipiscing, neque vel egestas interdum, mauris urna elementum nibh, sed vestibulum metus nisi sit amet dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam diam lectus, scelerisque ac ultricies dictum, hendrerit non odio. In eleifend gravida convallis. Ut sit amet est lectus. Proin sit amet lorem eros. Suspendisse ac nisl lectus, eu mollis justo.\n			</p>\n			<p>\n				Duis adipiscing, neque id euismod porta, quam diam sodales dolor, non tincidunt diam odio eget magna. Morbi quis dolor vel augue rhoncus euismod. Aenean fermentum vestibulum est tincidunt varius. Nam congue tincidunt pellentesque. Pellentesque quis ante ante. Maecenas dui diam, pharetra vel hendrerit vel, lobortis quis orci. Sed placerat sapien eget erat interdum feugiat ut nec urna. Pellentesque vitae urna feugiat mi porttitor egestas id at elit. Curabitur interdum molestie leo, eget porta diam venenatis vel.\n			</p>\n			<p>\n				Aenean ac nibh in sem viverra ornare sit amet sit amet justo. Morbi vitae risus a eros posuere fermentum a et purus. Vestibulum est eros, viverra in eleifend in, euismod vel elit. Proin facilisis dignissim fringilla. In sed sapien et felis consequat molestie. Curabitur tellus libero, eleifend vel cursus ac, dignissim eu sapien. Cras pulvinar cursus sapien in convallis.\n\n			</p>\n		</div>\n		<div class=\"container\" id=\"three\">\n			<h2>\n				This Will Be The Header For Tab 3\n			</h2>\n\n			<p>\n				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra, odio eu commodo porttitor, enim orci laoreet augue, id mollis sem purus a neque. Donec volutpat imperdiet odio non laoreet. In hac habitasse platea dictumst. Praesent vel dolor non odio convallis placerat ultricies id nunc. In faucibus pharetra congue. Sed at aliquet nibh. Vestibulum id massa ut risus congue dictum sed dapibus justo. Suspendisse et enim sed urna mattis vehicula. Curabitur nec metus vitae lacus ultricies mollis.\n			</p>\n			<p>\n				Mauris ornare mi commodo justo semper ac lacinia est dictum. Vestibulum eros justo, vulputate tempor suscipit ac, aliquet vel lorem. Aliquam gravida consectetur augue vitae ultricies. Vestibulum eu augue eu quam pharetra pulvinar vel ut purus. Pellentesque at turpis orci, eget luctus diam. Donec et hendrerit arcu. Nam pharetra mi nec velit tincidunt egestas.\n			</p>\n			<p>\n				Donec vel lorem ligula. Proin purus dui, euismod id volutpat ut, convallis eu sem. Curabitur ut mi adipiscing enim sodales dapibus. Nunc eget massa eu erat molestie luctus et sit amet urna. Proin vehicula, nibh sed placerat bibendum, dolor odio ultrices leo, in cursus purus libero quis est. Praesent id magna urna, eget molestie mi. Morbi placerat egestas sapien at aliquet. Aliquam ipsum nisi, cursus quis hendrerit ullamcorper, egestas nec ante. Suspendisse pulvinar ultrices nisi sed egestas. Etiam adipiscing, neque vel egestas interdum, mauris urna elementum nibh, sed vestibulum metus nisi sit amet dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam diam lectus, scelerisque ac ultricies dictum, hendrerit non odio. In eleifend gravida convallis. Ut sit amet est lectus. Proin sit amet lorem eros. Suspendisse ac nisl lectus, eu mollis justo.\n			</p>\n			<p>\n				Duis adipiscing, neque id euismod porta, quam diam sodales dolor, non tincidunt diam odio eget magna. Morbi quis dolor vel augue rhoncus euismod. Aenean fermentum vestibulum est tincidunt varius. Nam congue tincidunt pellentesque. Pellentesque quis ante ante. Maecenas dui diam, pharetra vel hendrerit vel, lobortis quis orci. Sed placerat sapien eget erat interdum feugiat ut nec urna. Pellentesque vitae urna feugiat mi porttitor egestas id at elit. Curabitur interdum molestie leo, eget porta diam venenatis vel.\n			</p>\n			<p>\n				Aenean ac nibh in sem viverra ornare sit amet sit amet justo. Morbi vitae risus a eros posuere fermentum a et purus. Vestibulum est eros, viverra in eleifend in, euismod vel elit. Proin facilisis dignissim fringilla. In sed sapien et felis consequat molestie. Curabitur tellus libero, eleifend vel cursus ac, dignissim eu sapien. Cras pulvinar cursus sapien in convallis.\n\n			</p>\n		</div>\n\n	</div>\n\n	<div class=\"footer\">\n		<ul>\n			<a href=\"\"><li>Home</li></a>\n			<a href=\"\"><li>About Us</li></a>\n			<a href=\"\"><li>Contact Us</li></a>\n			<a href=\"\"><li>Kittens</li></a>\n		</ul>\n	</div>\n\n<div id=\"__zsc_once\"></div><div id=\"__fghjktghndfgt_once\" style=\"display:none;\"></div></body>",
+			"settings":
+			{
+				"buffer_size": 9382,
+				"line_ending": "Windows",
+				"name": "<body jhjlijpomuhn=\"1\" jhjlijpomuhn_10=\"1\">"
+			}
+		},
+		{
+			"contents": "chrome-extension://impaepofmnammebeenafgmllpnjaiime/t9DfJRibLR.js",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Windows",
+				"name": "chrome-extension://impaepofmnammebeenafgmllpnjaiim"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 2329,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 530,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sidebar-right.php",
+			"settings":
+			{
+				"buffer_size": 469,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"id",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"p",
+				"Set Syntax: PHP"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"l",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sara/Desktop/webdev/blocky/Blocky Site.html",
+		"/C/Users/sara/Desktop/test.php",
+		"/C/xampp/htdocs/finalproject/logout.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/style.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/header.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/script.js",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/index.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/page.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/single-testimonials.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/testimonials-template.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/sidebar-right.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/no-sidebar-page.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/functions.php",
+		"/C/Users/sara/Desktop/webdev/portfolio/script.js",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/index.html",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/no-heading-page.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/header.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/header1.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/footer.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/style1.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/style.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/functions.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/single-testimonials.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/index.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/testimonials-template.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/archive-testimonials.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/archive.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/header.php",
+		"/C/Users/sara/Desktop/wordpress theme hierarchy",
+		"/C/Users/sara/Desktop/hohh/style.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/footer.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/archive-services.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/page.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/no-heading-page.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/no-sidebar-page.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/no-header-page.php",
+		"/K/annie/style.css",
+		"/K/annie/index.html",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/sidebar-right.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/single-testimonials.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/index.php",
+		"/K/annie/about.html",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/page.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/annie/header.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/style.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/style.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/annie/style.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/annie/functions.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/annie/index.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/functions.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/annie/header",
+		"/C/xampp/htdocs/devserver/wp-content/themes/annie/footer.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/annie/index1.html",
+		"/C/xampp/htdocs/devserver/wp-content/themes/annie/index.html",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/single-services.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/archive-testimonials.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/category.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/grid.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/htmlstyle.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/404.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/info-posts.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/single.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/jquery/script.js",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/services-single.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/multiple.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/vendors.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/services-archive.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/services-single.html",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/autocracy/theme-manager.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/functions.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/style-wp.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/autocracy/admin.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/index.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/header1.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/index1.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/gallery-page.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/contact.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/autocracy/theme-manager.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/autocracy/autocracy.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/footer.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/page.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/header.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/twentyeleven/single.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/twentyeleven/page.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/autocracy/cpost.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/artisticimpressions/autocracy/functions.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/index.html",
+		"/C/xampp/htdocs/devserver/wp-content/themes/twentytwelve/functions.php",
+		"/C/xampp/htdocs/autosuave/style-wp.css",
+		"/C/xampp/htdocs/autosuave/index.php",
+		"/C/xampp/htdocs/autosuave/header.php",
+		"/C/xampp/htdocs/autosuave/footer.php",
+		"/C/xampp/htdocs/autosuave/index.html",
+		"/C/xampp/htdocs/autosuave/jquery/script.js",
+		"/C/xampp/htdocs/autosuave/index2.html",
+		"/C/xampp/htdocs/autosuave/style2.css",
+		"/C/xampp/htdocs/autosuave/grid.css",
+		"/C/xampp/htdocs/autosuave/style.css",
+		"/C/xampp/htdocs/autosuave/jquery/slick/slick.js",
+		"/C/xampp/htdocs/autosuave/jquery/slick/slick.css",
+		"/C/Users/sara/Desktop/webdev/portfolio/index.html",
+		"/C/xampp/htdocs/autosuave/jquery/carousel.js",
+		"/C/xampp/htdocs/autosuave/jquery/slider.js",
+		"/C/Users/sara/Desktop/webdev/magnet/grid.css",
+		"/C/Users/sara/Desktop/webdev/magnet/magnet.css",
+		"/C/Users/sara/Desktop/webdev/magnet/index.html",
+		"/C/Users/sara/Desktop/webdev/portfolio/style/style.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/immaculate/script/nivo-slider/themes/default/default.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/immaculate/style.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/immaculate/header.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/immaculate/index.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/immaculate/footer.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/immaculate/functions.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/immaculate/single.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/immaculate/archive.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/Interplast/single.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/immaculate/page.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/Interplast/page.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/Interplast/functions.php",
+		"/C/Users/sara/Desktop/webdev/church/style.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/Interplast/header.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/twentyeleven/header.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/science/index.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/floral/index.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/floral/footer.php",
+		"/C/Users/sara/Desktop/webdev/church/script/nivo-slider/themes/default/default.css",
+		"/C/xampp/htdocs/devserver/wp-content/themes/floral/style.css",
+		"/C/Users/sara/Desktop/webdev/church/script/jquery.nivo.slider.js"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"33px",
+			".sidebar",
+			".one-third .post",
+			".trans .more",
+			".slide",
+			".blog",
+			"main",
+			"outline",
+			".slider",
+			".slider im",
+			".blog .ribbon",
+			"#slideFrame",
+			"#slideframe",
+			".content",
+			".css('width',",
+			"slick-slide",
+			"904",
+			"                                    ",
+			"body{\n	margin: 0px;\n	padding: 0px;\n	font-family: sans-serif;\n}\n.container{\n	width: 1170px;\n	margin: 0px auto;\n	-webkit-box-shadow: 2px 0px 1px 0px rgba(50, 50, 50, 0.1), -2px 0px 1px 0px rgba(50, 50, 50, 0.1);\n	-moz-box-shadow:    2px 0px 1px 0px rgba(50, 50, 50, 0.1), -2px 0px 1px 0px rgba(50, 50, 50, 0.1);\n	box-shadow:         2px 0px 1px 0px rgba(50, 50, 50, 0.1), -2px 0px 1px 0px rgba(50, 50, 50, 0.1);\n}\n\n/*header*/\n.topbar{\n	width: 100%;\n	background-color: #2980b9;\n	font-size: 12px;\n	font-family: sans-serif;\n}\n.topbar ul{\n	text-align: right;\n	margin: 0px;\n	font-size: 0;\n}\n.topbar ul li{\n	display: inline-block;\n	color: #fff;\n	padding: 10px 7px;\n	font-size: 12px;\n}\n.topbar ul li:hover, .topbar ul li:focus{\n	background-color: #3498db;	\n}\n\n.logo{\n	padding:25px 2.5% 25px 2.5%;\n}\n\n.navbar{\n	background-color: #2c3e50;\n	padding: 10px 0px;\n	font-family: sans-serif;\n}\n.navbar ul{\n	width: 100%;\n	margin: 0px;\n	padding: 0px;\n	font-size: 0;\n}\n.navbar ul li{\n	color: #fff;\n	text-transform: uppercase;\n	display: inline-block;\n	width: 16.66%;\n	font-size: 16px;\n	line-height: 22px;\n	text-align: center;\n}\n.navbar ul li:hover, .navbar ul li:focus{\n	color: #2980b9;\n	cursor: pointer;\n}\n/*main */\n.slider-box{\n	width: 100%;\n	height: 440px;\n}\n.nivoSlider{\n	height: 400px;\n}\n.theme-default .nivo-controlNav{\n	padding: 10px 0px !important;\n	border-bottom: solid 1px rgba(50, 50, 50, 0.1);\n}\n.page{\n	width: 100%;\n	color: #333;\n	font-family: 'Lato', sans-serif;\n}\n.page h1{\n	width: 95%;\n	font-size: 36px;\n	line-height: 40px;\n	margin: 0px;\n	padding: 20px 2.5%;\n	border-bottom: solid 1px rgba(50, 50, 50, 0.1);\n}\n.page p, .page ul, .page ol, .page img{\n	padding: 0px 2.5%;\n	width: 95%;\n}\n/*footer*/\nfooter{\n	background-color: #F2F2F2;\n	color: #AAA;\n	padding: 20px 2.5% 10px 2.5%;\n	font-size: 10px;\n	font-family: Verdana, sans-serif;\n}\n\nfooter a{\n	color: #555;\n	text-decoration: none;\n\n}\nfooter a:hover, footer a:focus{\n	color: #2980b9;\n}",
+			"h3",
+			".h1",
+			"update",
+			"updateOn",
+			"text-sha",
+			">\n",
+			"first",
+			"last",
+			"prepend",
+			"append",
+			"arts, media",
+			"$.append",
+			"html",
+			"header",
+			"info",
+			"bold",
+			".cap",
+			".caps",
+			";\n",
+			".sear",
+			".upper",
+			".login select",
+			".login but",
+			".footer",
+			".foorte",
+			"ef464c",
+			".inf",
+			".div",
+			".div.rel",
+			".div.re",
+			".border",
+			".prof",
+			".footer",
+			".header",
+			".largepic",
+			";\n",
+			" $",
+			"					\n",
+			"eath",
+			"width: auto;\n	float: right;\n	display: inline-block;",
+			">",
+			"navbar li",
+			".contain",
+			".container",
+			".contain",
+			".round",
+			".ribbon",
+			";\n",
+			"header",
+			".sidebar1",
+			".navbar",
+			".header",
+			"div",
+			"\").",
+			"src=\"images/",
+			"<?php include 'footer.php'; ?>",
+			"<?php include 'header.php'; ?>",
+			"<?php include 'header.php' ?>",
+			"active",
+			"large-img",
+			"contact",
+			"large",
+			"two",
+			"content",
+			"list",
+			"half",
+			"full",
+			"picture",
+			"three",
+			".post",
+			"purple",
+			".dis",
+			"half",
+			"list",
+			"purple",
+			"274",
+			"8e8e8e",
+			"4e4e4e",
+			"h2",
+			"logo",
+			"purple-text",
+			"myriad",
+			"// $('').('');",
+			"box",
+			"dark",
+			"grey",
+			"text",
+			".display",
+			".displ",
+			"padding",
+			"text",
+			"buttons",
+			"gallery",
+			"main",
+			"main h2",
+			"purple",
+			"img-ga",
+			".body",
+			"a",
+			"butto",
+			"li",
+			"main",
+			";\n",
+			".main h2",
+			"purple",
+			"h2",
+			"news",
+			"green",
+			"med"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"last",
+			"first",
+			"append",
+			"prepend",
+			"document.write",
+			"src=\"<?php echo get_template_directory_uri(); ?>/images/",
+			"<?php get_footer(); ?>",
+			"<?php get_header(); ?>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "script.js",
+					"settings":
+					{
+						"buffer_size": 2127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								764,
+								764
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 157.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 6667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 9382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								18
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<body jhjlijpomuhn=\"1\" jhjlijpomuhn_10=\"1\">",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								52,
+								19
+							]
+						],
+						"settings":
+						{
+							"auto_name": "chrome-extension://impaepofmnammebeenafgmllpnjaiim",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "functions.php",
+					"settings":
+					{
+						"buffer_size": 2329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								315,
+								315
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "footer.php",
+					"settings":
+					{
+						"buffer_size": 530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								460,
+								460
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 7.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "sidebar-right.php",
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 338.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"",
+				"/C/Users/sara/Desktop/website/ecommerce/Index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true
+}

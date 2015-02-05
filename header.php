@@ -15,16 +15,13 @@
 		<div class="responsive header">
 			<div class="container">
 				<nav>
-					<ul>
-						<?php wp_nav_menu( array( 'theme_location' => 'header-menu', 'container_class' => 'full navbar' ) ); ?>
-					</ul>
+					<?php wp_nav_menu( array( 'theme_location' => 'header-menu', 'container_class' => 'full navbar' ) ); ?>
 				</nav>
 				<img src="<?php echo get_template_directory_uri(); ?>/images/logo-white.png">
 				<p><?php $blog_title = get_bloginfo('name'); echo $blog_title;?><p>
 				<nav>
-					<?php wp_nav_menu( array( 'theme_location' => 'header2-menu', 'container_class' => 'navbar' ) ); ?>
+					<?php wp_nav_menu( array( 'theme_location' => 'extra-menu', 'container_class' => 'navbar' ) ); ?>
 				</nav>
-				<p class="fl-right">Get in touch.</p>
 			</div>	
 		</div>
 		<div class="first header">
@@ -34,9 +31,8 @@
 							<?php wp_nav_menu( array( 'theme_location' => 'header-menu', 'container_class' => 'full navbar' ) ); ?>
 					</nav>
 					<div class="column half right">
-						<p><i class="fa fa-phone"></i>Get in touch.</p>
 						<nav>
-							<?php wp_nav_menu( array( 'theme_location' => 'header2-menu', 'container_class' => 'navbar' ) ); ?>
+							<?php wp_nav_menu( array( 'theme_location' => 'extra-menu', 'container_class' => 'navbar' ) ); ?>
 						</nav>
 					</div>
 				</div>	

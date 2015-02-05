@@ -2,13 +2,13 @@
 	// allows posts to have featured images
 	add_theme_support('post-thumbnails');
 
-	// registers 2 menus
+	// registers 3 menus
 	function register_my_menus() {
 	  register_nav_menus(
 	    array(
 	      'header-menu' => __( 'Header Menu' ),
-	      'header2-menu' => __( 'Second Menu' ),
-	      'extra-menu' => __( 'Footer Menu' )
+	      'extra-menu' => __( 'Second Menu' ),
+	      'footer-menu' => __( 'Footer Menu' )
 	    )
 	  );
 	}

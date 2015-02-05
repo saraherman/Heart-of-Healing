@@ -1,6 +1,6 @@
 <div class="column third sidebar">
 	<div>
-		<img src="<?php echo get_template_directory_uri(); ?>/images/path.png">
+		<img src="<?php echo get_template_directory_uri(); ?>/images/women_child.png">
 		<h2>Get started on the path to healing!<i class="fa fa-angle-double-down"></i></h2>
 		<form>
 			<input type="text" placeholder="Name" required>
