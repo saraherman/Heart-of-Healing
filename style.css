@@ -61,11 +61,25 @@ header {
 	margin: 0px;
 	vertical-align:middle;
 }
+.header .column{
+	padding: 20px 0px;
+}
+.responsive-logo{
+	display:inline-block;
+	opacity: 0;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 200;
+}
+.col-wrap .responsive-logo  h2{
+	font-size: 32px;
+	margin-bottom: 0px;
+}
 header .logo {
 	display:inline-block;
 	position: absolute;
 	top: 10px;
-	left: 50%;
+	left:46%;
 	z-index: 0;
 	max-width: 140px;
 	vertical-align: middle;
@@ -83,7 +97,7 @@ header .logo img {
 header .logo .logo-text {
 	position:absolute;
 	z-index: 999;
-	top:65px;
+	top:70px;
 	width:340px;
 	margin-left:-130px;
 }
@@ -130,7 +144,7 @@ header nav ul li {
 	margin-right:10px; 
 	vertical-align:top; 
 	list-style: none; 
-	padding:10px 15px; 
+	padding:10px 30px; 
 	color:#fff; 
 	border-bottom: 2px solid rgba(2, 79, 97, 0);
 }
@@ -242,6 +256,12 @@ i.fa.fa-phone:hover{
 .sidebar button .fa{
 	vertical-align: middle;
 }
+.col-wrap .responsive-logo h2 i{
+		display: none;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+
 textarea, input[type='text'], input[type='email']{
 	background-color: #53A4B7;
 	border: none;
@@ -376,4 +396,32 @@ li.menu-item:hover ul.sub-menu{
 	.two-thirds, .half, .third{
 		width: 100%;
 	}
+}
+@media(max-width: 867px ){
+	.col-wrap .responsive-logo h2{
+		margin-top: -20px;
+		margin-bottom: -10px;
+	}
+	.responsive-logo{
+		margin-top: 0px;
+	}
+	.col-wrap .responsive-logo h2 i{
+		display: inline-block;
+	}
+	.header nav{
+		display: none;
+	}
+	header .logo .logo-text{
+		top: 55px;
+	}
+	header .logo{
+		top: 0px;
+		box-shadow: none;
+	}
+}
+@media(max-width: 600px ){
+	.two-thirds, .half, .third{
+		width: 100%;
+	}
+	
 }
