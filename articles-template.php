@@ -16,7 +16,7 @@ get_header(); ?>
 
 				$the_query->the_post();?>
 				<div class="post">
-					<h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a><small class="fl-right"><i class="fa fa-map-marker"></i>San Diego, Ca</small></h2>
+					<h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a><small class="fl-right"><i class="fa fa-calendar"></i><?php the_time('F j, Y'); ?></small></h2>
 					<?php if ( has_post_thumbnail() ) {
 						the_post_thumbnail('thumbnail', array('class' => 'fl-left featured'));
 					} ?>

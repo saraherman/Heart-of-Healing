@@ -3,7 +3,9 @@ $(document).ready(function(){
 	$('.post:has(img)').css({'min-height':'270px'});
 
 	// adds down chevron when li has dropdown elements
-	$('.menu-item-has-children >a').append('&nbsp;<i class="fa fa-chevron-down"></i>');
+	$('.menu-item-has-children >a').append('&nbsp;<i class="fa fa-chevron-down"></i>').css({'border-bottom':'none'});
+
+	
 
 	function scrollY() {
 		return window.pageYOffset || document.documentElement.scrollTop;

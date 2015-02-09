@@ -23,7 +23,7 @@
 					</nav>
 					
 					<div class="column responsive-logo">
-							<h2><i class="fa fa-bars"></i><?php $blog_title = get_bloginfo('name'); echo $blog_title;?></h2>
+						<h2><i class="fa fa-bars"></i><?php $blog_title = get_bloginfo('name'); echo $blog_title;?></h2>
 					</div>
 				
 					<nav class="column right">

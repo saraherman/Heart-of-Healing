@@ -44,6 +44,7 @@ img.fl-left{
 img.fl-right{
 	margin-left: 10px;
 }
+
 /* Header */
 header {
 	position: fixed; 
@@ -148,7 +149,13 @@ header nav ul li {
 	color:#fff; 
 	border-bottom: 2px solid rgba(2, 79, 97, 0);
 }
-header nav ul li:hover {
+header nav ul li:hover a{
+	border-bottom: 2px solid rgb(255, 192, 203);
+}
+header nav ul li:hover .sub-menu >li a{
+	border-bottom: none;
+}
+header nav ul li:hover .sub-menu >li:hover a{
 	border-bottom: 2px solid rgb(255, 192, 203);
 }
 header .responsive.header{
@@ -160,6 +167,7 @@ header .responsive.header{
 header .responsive.header p,header .responsive.header ul{
 	display: inline-block;
 }
+
 .responsive.header img{
 	width: 25px;
 	height: 25px;
@@ -356,6 +364,10 @@ main h1{
 	text-align: center;
 	padding-bottom: 10px;
 }
+.column p a img.size-full{
+	max-width: 100% !important;
+	max-height: 100% !important;
+} 
 footer{
 	color: #fff;
 }
@@ -376,12 +388,20 @@ li.menu-item{
 li.menu-item ul.sub-menu{
 	display: none;
 	position: absolute;
-
+	background-color: #2C6A78;
+	border: 2px solid #eee;
+	border-top: none;
+	outline: 1px solid #2C6A78;
+	text-align: center;
 }
 li.menu-item:hover ul.sub-menu{
 	display: block;
-	left: 0px;
+	left: 0%;
 	top: 39px;
+	width: 100%;
+}
+li.menu-item ul.sub-menu li{
+	border-top:2px solid #fff;
 }
 /*responsive*/
 @media(max-width: 1160px ){
