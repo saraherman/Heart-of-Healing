@@ -5,7 +5,11 @@
 		[
 			[
 				"border",
-				"border-bottom"
+				"border-top"
+			],
+			[
+				"bor",
+				"border"
 			],
 			[
 				"padd",
@@ -42,10 +46,6 @@
 			[
 				"bord",
 				"border-radius"
-			],
-			[
-				"bor",
-				"border-bottom"
 			],
 			[
 				"tex",
@@ -468,60 +468,18 @@
 	"buffers":
 	[
 		{
-			"file": "script.js",
+			"file": "/C/Users/sara/Desktop/artisticimpressions/gallery.php",
 			"settings":
 			{
-				"buffer_size": 2127,
+				"buffer_size": 1201,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "style.css",
+			"file": "/C/Users/sara/Desktop/artisticimpressions/script.js",
 			"settings":
 			{
-				"buffer_size": 6667,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "<body jhjlijpomuhn=\"1\" jhjlijpomuhn_10=\"1\">\n	<div class=\"header\">\n		<div>\n			<h1>Your Website Here</h1>\n			<div><ul>\n				<a href=\"\"><li>Home</li></a>\n				<a href=\"\"><li>About Us</li></a>\n				<a href=\"\"><li>Contact Us</li></a>\n				<a href=\"\"><li>Kittens</li></a></ul></div>\n			\n		</div>\n	</div>\n\n	<div class=\"body\">\n		<ul class=\"tab\">\n			<li class=\"active\">\n				<a href=\"#one\">Tab 1</a>\n			</li>\n			<li>\n				<a href=\"#two\">Tab 2</a>\n			</li>\n			<li>\n				<a href=\"#three\">Tab 3</a>\n			</li>\n		</ul>\n\n		<div class=\"container\" id=\"one\" style=\"display: block;\">\n			<h2>\n				This Will Be The Header For Tab 1\n			</h2>\n\n			<p>\n				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra, odio eu commodo porttitor, enim orci laoreet augue, id mollis sem purus a neque. Donec volutpat imperdiet odio non laoreet. In hac habitasse platea dictumst. Praesent vel dolor non odio convallis placerat ultricies id nunc. In faucibus pharetra congue. Sed at aliquet nibh. Vestibulum id massa ut risus congue dictum sed dapibus justo. Suspendisse et enim sed urna mattis vehicula. Curabitur nec metus vitae lacus ultricies mollis.\n			</p>\n			<p>\n				Mauris ornare mi commodo justo semper ac lacinia est dictum. Vestibulum eros justo, vulputate tempor suscipit ac, aliquet vel lorem. Aliquam gravida consectetur augue vitae ultricies. Vestibulum eu augue eu quam pharetra pulvinar vel ut purus. Pellentesque at turpis orci, eget luctus diam. Donec et hendrerit arcu. Nam pharetra mi nec velit tincidunt egestas.\n			</p>\n			<p>\n				Donec vel lorem ligula. Proin purus dui, euismod id volutpat ut, convallis eu sem. Curabitur ut mi adipiscing enim sodales dapibus. Nunc eget massa eu erat molestie luctus et sit amet urna. Proin vehicula, nibh sed placerat bibendum, dolor odio ultrices leo, in cursus purus libero quis est. Praesent id magna urna, eget molestie mi. Morbi placerat egestas sapien at aliquet. Aliquam ipsum nisi, cursus quis hendrerit ullamcorper, egestas nec ante. Suspendisse pulvinar ultrices nisi sed egestas. Etiam adipiscing, neque vel egestas interdum, mauris urna elementum nibh, sed vestibulum metus nisi sit amet dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam diam lectus, scelerisque ac ultricies dictum, hendrerit non odio. In eleifend gravida convallis. Ut sit amet est lectus. Proin sit amet lorem eros. Suspendisse ac nisl lectus, eu mollis justo.\n			</p>\n			<p>\n				Duis adipiscing, neque id euismod porta, quam diam sodales dolor, non tincidunt diam odio eget magna. Morbi quis dolor vel augue rhoncus euismod. Aenean fermentum vestibulum est tincidunt varius. Nam congue tincidunt pellentesque. Pellentesque quis ante ante. Maecenas dui diam, pharetra vel hendrerit vel, lobortis quis orci. Sed placerat sapien eget erat interdum feugiat ut nec urna. Pellentesque vitae urna feugiat mi porttitor egestas id at elit. Curabitur interdum molestie leo, eget porta diam venenatis vel.\n			</p>\n			<p>\n				Aenean ac nibh in sem viverra ornare sit amet sit amet justo. Morbi vitae risus a eros posuere fermentum a et purus. Vestibulum est eros, viverra in eleifend in, euismod vel elit. Proin facilisis dignissim fringilla. In sed sapien et felis consequat molestie. Curabitur tellus libero, eleifend vel cursus ac, dignissim eu sapien. Cras pulvinar cursus sapien in convallis.\n\n			</p>\n		</div>\n		<div class=\"container\" id=\"two\">\n			<h2>\n				This Will Be The Header For Tab 2\n			</h2>\n\n			<p>\n				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra, odio eu commodo porttitor, enim orci laoreet augue, id mollis sem purus a neque. Donec volutpat imperdiet odio non laoreet. In hac habitasse platea dictumst. Praesent vel dolor non odio convallis placerat ultricies id nunc. In faucibus pharetra congue. Sed at aliquet nibh. Vestibulum id massa ut risus congue dictum sed dapibus justo. Suspendisse et enim sed urna mattis vehicula. Curabitur nec metus vitae lacus ultricies mollis.\n			</p>\n			<p>\n				Mauris ornare mi commodo justo semper ac lacinia est dictum. Vestibulum eros justo, vulputate tempor suscipit ac, aliquet vel lorem. Aliquam gravida consectetur augue vitae ultricies. Vestibulum eu augue eu quam pharetra pulvinar vel ut purus. Pellentesque at turpis orci, eget luctus diam. Donec et hendrerit arcu. Nam pharetra mi nec velit tincidunt egestas.\n			</p>\n			<p>\n				Donec vel lorem ligula. Proin purus dui, euismod id volutpat ut, convallis eu sem. Curabitur ut mi adipiscing enim sodales dapibus. Nunc eget massa eu erat molestie luctus et sit amet urna. Proin vehicula, nibh sed placerat bibendum, dolor odio ultrices leo, in cursus purus libero quis est. Praesent id magna urna, eget molestie mi. Morbi placerat egestas sapien at aliquet. Aliquam ipsum nisi, cursus quis hendrerit ullamcorper, egestas nec ante. Suspendisse pulvinar ultrices nisi sed egestas. Etiam adipiscing, neque vel egestas interdum, mauris urna elementum nibh, sed vestibulum metus nisi sit amet dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam diam lectus, scelerisque ac ultricies dictum, hendrerit non odio. In eleifend gravida convallis. Ut sit amet est lectus. Proin sit amet lorem eros. Suspendisse ac nisl lectus, eu mollis justo.\n			</p>\n			<p>\n				Duis adipiscing, neque id euismod porta, quam diam sodales dolor, non tincidunt diam odio eget magna. Morbi quis dolor vel augue rhoncus euismod. Aenean fermentum vestibulum est tincidunt varius. Nam congue tincidunt pellentesque. Pellentesque quis ante ante. Maecenas dui diam, pharetra vel hendrerit vel, lobortis quis orci. Sed placerat sapien eget erat interdum feugiat ut nec urna. Pellentesque vitae urna feugiat mi porttitor egestas id at elit. Curabitur interdum molestie leo, eget porta diam venenatis vel.\n			</p>\n			<p>\n				Aenean ac nibh in sem viverra ornare sit amet sit amet justo. Morbi vitae risus a eros posuere fermentum a et purus. Vestibulum est eros, viverra in eleifend in, euismod vel elit. Proin facilisis dignissim fringilla. In sed sapien et felis consequat molestie. Curabitur tellus libero, eleifend vel cursus ac, dignissim eu sapien. Cras pulvinar cursus sapien in convallis.\n\n			</p>\n		</div>\n		<div class=\"container\" id=\"three\">\n			<h2>\n				This Will Be The Header For Tab 3\n			</h2>\n\n			<p>\n				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra, odio eu commodo porttitor, enim orci laoreet augue, id mollis sem purus a neque. Donec volutpat imperdiet odio non laoreet. In hac habitasse platea dictumst. Praesent vel dolor non odio convallis placerat ultricies id nunc. In faucibus pharetra congue. Sed at aliquet nibh. Vestibulum id massa ut risus congue dictum sed dapibus justo. Suspendisse et enim sed urna mattis vehicula. Curabitur nec metus vitae lacus ultricies mollis.\n			</p>\n			<p>\n				Mauris ornare mi commodo justo semper ac lacinia est dictum. Vestibulum eros justo, vulputate tempor suscipit ac, aliquet vel lorem. Aliquam gravida consectetur augue vitae ultricies. Vestibulum eu augue eu quam pharetra pulvinar vel ut purus. Pellentesque at turpis orci, eget luctus diam. Donec et hendrerit arcu. Nam pharetra mi nec velit tincidunt egestas.\n			</p>\n			<p>\n				Donec vel lorem ligula. Proin purus dui, euismod id volutpat ut, convallis eu sem. Curabitur ut mi adipiscing enim sodales dapibus. Nunc eget massa eu erat molestie luctus et sit amet urna. Proin vehicula, nibh sed placerat bibendum, dolor odio ultrices leo, in cursus purus libero quis est. Praesent id magna urna, eget molestie mi. Morbi placerat egestas sapien at aliquet. Aliquam ipsum nisi, cursus quis hendrerit ullamcorper, egestas nec ante. Suspendisse pulvinar ultrices nisi sed egestas. Etiam adipiscing, neque vel egestas interdum, mauris urna elementum nibh, sed vestibulum metus nisi sit amet dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam diam lectus, scelerisque ac ultricies dictum, hendrerit non odio. In eleifend gravida convallis. Ut sit amet est lectus. Proin sit amet lorem eros. Suspendisse ac nisl lectus, eu mollis justo.\n			</p>\n			<p>\n				Duis adipiscing, neque id euismod porta, quam diam sodales dolor, non tincidunt diam odio eget magna. Morbi quis dolor vel augue rhoncus euismod. Aenean fermentum vestibulum est tincidunt varius. Nam congue tincidunt pellentesque. Pellentesque quis ante ante. Maecenas dui diam, pharetra vel hendrerit vel, lobortis quis orci. Sed placerat sapien eget erat interdum feugiat ut nec urna. Pellentesque vitae urna feugiat mi porttitor egestas id at elit. Curabitur interdum molestie leo, eget porta diam venenatis vel.\n			</p>\n			<p>\n				Aenean ac nibh in sem viverra ornare sit amet sit amet justo. Morbi vitae risus a eros posuere fermentum a et purus. Vestibulum est eros, viverra in eleifend in, euismod vel elit. Proin facilisis dignissim fringilla. In sed sapien et felis consequat molestie. Curabitur tellus libero, eleifend vel cursus ac, dignissim eu sapien. Cras pulvinar cursus sapien in convallis.\n\n			</p>\n		</div>\n\n	</div>\n\n	<div class=\"footer\">\n		<ul>\n			<a href=\"\"><li>Home</li></a>\n			<a href=\"\"><li>About Us</li></a>\n			<a href=\"\"><li>Contact Us</li></a>\n			<a href=\"\"><li>Kittens</li></a>\n		</ul>\n	</div>\n\n<div id=\"__zsc_once\"></div><div id=\"__fghjktghndfgt_once\" style=\"display:none;\"></div></body>",
-			"settings":
-			{
-				"buffer_size": 9382,
-				"line_ending": "Windows",
-				"name": "<body jhjlijpomuhn=\"1\" jhjlijpomuhn_10=\"1\">"
-			}
-		},
-		{
-			"contents": "chrome-extension://impaepofmnammebeenafgmllpnjaiime/t9DfJRibLR.js",
-			"settings":
-			{
-				"buffer_size": 65,
-				"line_ending": "Windows",
-				"name": "chrome-extension://impaepofmnammebeenafgmllpnjaiim"
-			}
-		},
-		{
-			"file": "functions.php",
-			"settings":
-			{
-				"buffer_size": 2329,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "footer.php",
-			"settings":
-			{
-				"buffer_size": 530,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "sidebar-right.php",
-			"settings":
-			{
-				"buffer_size": 469,
+				"buffer_size": 614,
 				"line_ending": "Windows"
 			}
 		}
@@ -650,25 +608,32 @@
 	},
 	"file_history":
 	[
+		"/C/Users/sara/Desktop/heart of healing/Heart-of-Healing/style.css",
+		"/C/Users/sara/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/sara/Desktop/artisticimpressions/theme-options.js",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/script.js",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/style.css",
+		"/C/Users/sara/Desktop/artisticimpressions/single-gallery.php",
+		"/C/Users/sara/Desktop/artisticimpressions/script.js",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/functions.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/footer.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/sidebar-right.php",
+		"/C/Users/sara/Desktop/artisticimpressions/thickbox-image.js",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/header.php",
+		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/articles-template.php",
 		"/C/Users/sara/Desktop/webdev/blocky/Blocky Site.html",
 		"/C/Users/sara/Desktop/test.php",
 		"/C/xampp/htdocs/finalproject/logout.php",
-		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/style.css",
-		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/header.php",
-		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/script.js",
 		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/index.php",
 		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/page.php",
 		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/single-testimonials.php",
 		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/testimonials-template.php",
-		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/sidebar-right.php",
 		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/no-sidebar-page.php",
-		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/functions.php",
 		"/C/Users/sara/Desktop/webdev/portfolio/script.js",
 		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/index.html",
 		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/no-heading-page.php",
 		"/C/xampp/htdocs/devserver/wp-content/themes/autosuave/header.php",
 		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/header1.php",
-		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/footer.php",
 		"/C/xampp/htdocs/devserver/wp-content/themes/heart of healing/style1.css",
 		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/style.css",
 		"/C/xampp/htdocs/devserver/wp-content/themes/hoh/functions.php",
@@ -770,18 +735,11 @@
 		"/C/xampp/htdocs/devserver/wp-content/themes/Interplast/page.php",
 		"/C/xampp/htdocs/devserver/wp-content/themes/Interplast/functions.php",
 		"/C/Users/sara/Desktop/webdev/church/style.css",
-		"/C/xampp/htdocs/devserver/wp-content/themes/Interplast/header.php",
-		"/C/xampp/htdocs/devserver/wp-content/themes/twentyeleven/header.php",
-		"/C/xampp/htdocs/devserver/wp-content/themes/science/index.php",
-		"/C/xampp/htdocs/devserver/wp-content/themes/floral/index.php",
-		"/C/xampp/htdocs/devserver/wp-content/themes/floral/footer.php",
-		"/C/Users/sara/Desktop/webdev/church/script/nivo-slider/themes/default/default.css",
-		"/C/xampp/htdocs/devserver/wp-content/themes/floral/style.css",
-		"/C/Users/sara/Desktop/webdev/church/script/jquery.nivo.slider.js"
+		"/C/xampp/htdocs/devserver/wp-content/themes/Interplast/header.php"
 	],
 	"find":
 	{
-		"height": 44.0
+		"height": 55.0
 	},
 	"find_in_files":
 	{
@@ -796,6 +754,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".half",
+			".fl",
+			".sub-menu",
+			"li:hover",
+			"sub-menu",
+			"sub",
+			"border",
+			"header nav",
+			"sub-menu",
 			"33px",
 			".sidebar",
 			".one-third .post",
@@ -914,16 +881,7 @@
 			"img-ga",
 			".body",
 			"a",
-			"butto",
-			"li",
-			"main",
-			";\n",
-			".main h2",
-			"purple",
-			"h2",
-			"news",
-			"green",
-			"med"
+			"butto"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -951,23 +909,50 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "script.js",
+					"file": "/C/Users/sara/Desktop/artisticimpressions/gallery.php",
 					"settings":
 					{
-						"buffer_size": 2127,
+						"buffer_size": 1201,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								764,
-								764
+								1201,
+								1201
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 401.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/sara/Desktop/artisticimpressions/script.js",
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -975,168 +960,7 @@
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 157.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "style.css",
-					"settings":
-					{
-						"buffer_size": 6667,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								273,
-								273
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"settings":
-					{
-						"buffer_size": 9382,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6,
-								18
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<body jhjlijpomuhn=\"1\" jhjlijpomuhn_10=\"1\">",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"settings":
-					{
-						"buffer_size": 65,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								52,
-								19
-							]
-						],
-						"settings":
-						{
-							"auto_name": "chrome-extension://impaepofmnammebeenafgmllpnjaiim",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "functions.php",
-					"settings":
-					{
-						"buffer_size": 2329,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								315,
-								315
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "footer.php",
-					"settings":
-					{
-						"buffer_size": 530,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								460,
-								460
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 7.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "sidebar-right.php",
-					"settings":
-					{
-						"buffer_size": 469,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								120,
-								120
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 338.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},

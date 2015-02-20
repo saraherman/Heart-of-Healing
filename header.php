@@ -13,6 +13,7 @@
 	<script src="<?php echo get_template_directory_uri(); ?>/script.js"></script>
 </head>
 <body>
+<?php include_once("analyticstracking.php") ?>
 	<header>
 		<div class="first header">
 			<div class="container">
@@ -29,6 +30,12 @@
 					<nav class="column right">
 						<?php wp_nav_menu( array( 'theme_location' => 'extra-menu', 'container_class' => 'navbar' ) ); ?>
 					</nav>
+
+					<div class="column" id="mobile-logo">
+						<h2><i class="fa fa-bars"></i><?php $blog_title = get_bloginfo('name'); echo $blog_title;?></h2>
+					</div>
+					<?php wp_nav_menu( array( 'theme_location' => 'mobile-menu', 'container_class' => 'mobile-nav' ) ); ?>
+					
 				</div>	
 			</div>
 		</div>

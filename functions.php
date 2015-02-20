@@ -8,6 +8,7 @@
 	    array(
 	      'header-menu' => __( 'Header Menu' ),
 	      'extra-menu' => __( 'Second Menu' ),
+		'mobile-menu' => __( 'Mobile Menu' ),
 	      'footer-menu' => __( 'Footer Menu' )
 	    )
 	  );

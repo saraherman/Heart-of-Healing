@@ -1,10 +1,10 @@
 /*
 Theme Name: Heart of Healing
-Theme URI: Your Theme's URI
-Description: Heart of Healing.
+Theme URI: http://heartofhealingassociates.com
+Description: Heart of Healing: gentle and effective healing.
 Version: 1.0
 Author: Sara Herman
-Author URI: Your website address.
+Author URI: 
 */
 * {box-sizing:border-box;}
 body {
@@ -66,8 +66,7 @@ header {
 	padding: 20px 0px;
 }
 .responsive-logo{
-	display:inline-block;
-	opacity: 0;
+	display:none;
 	color: #fff;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 200;
@@ -179,8 +178,8 @@ header .responsive.header p,header .responsive.header ul{
 
 }
 .quote{
-	color: #024F61;
-	padding: 20px;
+	color: #53A4B7;
+	padding: 0px 20px;
 	font-style: italic;
 	font-weight: bold;
 	text-align: center;
@@ -208,10 +207,9 @@ main {margin-top: 280px; position: relative;
 	text-align: center;
 }
 
-.spec-wrap {padding-top: 138px; margin-top:0px;
-	/*background-image: url(images/curls.png);
-	background-size: cover;
-	background-position: 50%;*/
+.spec-wrap {
+	padding-top: 138px;
+	margin-top:0px;
 }
 .white-wrap {background-color: #fff; /*margin-top:40px;*/}
 
@@ -272,7 +270,7 @@ i.fa.fa-phone:hover{
 
 textarea, input[type='text'], input[type='email']{
 	background-color: #53A4B7;
-	border: none;
+	border: 1px solid rgba(255,255,255, 0.0);
 	width: 100%;
 	padding: 10px 35px;
 	margin: 5px 0px;
@@ -280,6 +278,7 @@ textarea, input[type='text'], input[type='email']{
 }
 textarea{
 	min-height: 100px;
+	max-width: 100%;
 }
 input[type="submit"], button{
 	margin: 5px 0px;
@@ -307,6 +306,17 @@ main h1{
 
 :-ms-input-placeholder {  
    color: #000;  
+}input[type=text],input[type=email], textarea {
+  -webkit-transition: all 0.30s ease-in-out;
+  -moz-transition: all 0.30s ease-in-out;
+  -ms-transition: all 0.30s ease-in-out;
+  -o-transition: all 0.30s ease-in-out;
+  outline: none;
+}
+ 
+input[type=text]:focus,input[type=email]:focus, textarea:focus {
+  box-shadow: 0 0 5px #ffc2cc;
+  border: 1px solid #ffc2cc;
 }
 .post{
 	background-color: #E6E6E6;
@@ -403,45 +413,85 @@ li.menu-item:hover ul.sub-menu{
 li.menu-item ul.sub-menu li{
 	border-top:2px solid #fff;
 }
+/*mobile logo*/
+	#mobile-logo{
+		padding: 5px;
+		background-color: #6C6D6E;
+		width: 100%;
+	}
+	#mobile-logo h2{
+		font-size: 24px;
+		margin-bottom: 0px;
+	}
+	#mobile-logo .fa-bars{
+		padding: 10px 10px;
+	}
+/*mobile navbar*/
+	.mobile-nav{
+		display:none;
+		background-color: #53A4B7;
+		width:100%;
+		padding:2px 0px;
+		border-top: 5px solid #FFC0CB;
+		background-image: url(images/lotus_vector4.png);
+		background-attachment: fixed;
+		background-position: 95% 95%;
+		background-size: 50%;
+		background-repeat: no-repeat;
+	}
+	.mobile-nav ul{
+		padding: 0px;
+		margin-left:47px;
+		margin-right:47px;
+		display:block;
+	}
+	.mobile-nav li{
+		width:auto;
+		color:#fff;
+		list-style-type:none;
+		padding:2px 0px;
+		font-size:20px;
+	}
+	.mobile-nav li:last-of-type a{
+		border: none;
+	}
+	.mobile-nav li a{
+		color:#fff;
+		text-decoration:none;
+		border-bottom: 3px dashed rgba(255,255,255,0.5);
+		display: block;
+	}
 /*responsive*/
+@media(min-width: 1160px ){
+	#mobile-logo{display: none;}
+	.mobile-nav{display: none;}
+}
 @media(max-width: 1160px ){
 	.container{
 		width: 100%;
 	}
-	.two-thirds, .half, .one-third{
-		width: 100%;
-	}
-}
-@media(max-width: 1020px ){
 	.two-thirds, .half, .third{
 		width: 100%;
 	}
-}
-@media(max-width: 867px ){
-	.col-wrap .responsive-logo h2{
-		margin-top: -20px;
-		margin-bottom: -10px;
+	footer{
+		margin-bottom: 10px;
+		color: #3F3F3F;
 	}
-	.responsive-logo{
-		margin-top: 0px;
+	footer .column{
+		text-align: center;
+		padding: 0px;
+		padding-top: 10px;
+		margin: 0px;
 	}
-	.col-wrap .responsive-logo h2 i{
-		display: inline-block;
+	footer .column p, footer .column ul{
+		margin: 0px;
 	}
-	.header nav{
-		display: none;
+	.spec-wrap{display: none;}
+	.responsive-logo{display: none;}
+	.first.header nav{display: none;}
+	main{margin-top: 50px;}
+	body{
+		background-image: none;
+		background-color: #53A4B7;
 	}
-	header .logo .logo-text{
-		top: 55px;
-	}
-	header .logo{
-		top: 0px;
-		box-shadow: none;
-	}
-}
-@media(max-width: 600px ){
-	.two-thirds, .half, .third{
-		width: 100%;
-	}
-	
 }
